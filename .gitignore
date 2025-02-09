@@ -1,2 +1,5 @@
 
-.pyc
+*.pyc
+
+deps/trade_signal_backtester/src/__pycache__/
+deps/trade_signal_backtester/src/*.egg-info/
